@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/650684062119122874/268236130f6b4f14b3c3fd6107e4c5a9/artifacts
+end_time: 1747592982790
+entry_point_name: ''
+experiment_id: '650684062119122874'
+lifecycle_stage: active
+run_id: 268236130f6b4f14b3c3fd6107e4c5a9
+run_name: efficient-pug-270
+run_uuid: 268236130f6b4f14b3c3fd6107e4c5a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747592964092
+status: 3
+tags: []
+user_id: codespace

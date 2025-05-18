@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/650684062119122874/2cd0417f06d641919f0864efc80068ac/artifacts
+deleted_time: 1747593008528
+end_time: 1747592460940
+entry_point_name: ''
+experiment_id: '650684062119122874'
+lifecycle_stage: deleted
+run_id: 2cd0417f06d641919f0864efc80068ac
+run_name: sneaky-chimp-130
+run_uuid: 2cd0417f06d641919f0864efc80068ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747592440328
+status: 4
+tags: []
+user_id: codespace

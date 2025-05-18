@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/94c86e0847c64bfd8da872557b1a6aef/artifacts
+deleted_time: 1747592998517
+end_time: 1747592632605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 94c86e0847c64bfd8da872557b1a6aef
+run_name: vaunted-hare-871
+run_uuid: 94c86e0847c64bfd8da872557b1a6aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747592610424
+status: 3
+tags: []
+user_id: codespace

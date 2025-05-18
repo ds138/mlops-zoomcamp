@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/332a9dba268b4ea6a9d6665bc78181cf/artifacts
+deleted_time: 1747592998496
+end_time: 1747592947540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 332a9dba268b4ea6a9d6665bc78181cf
+run_name: kindly-sheep-379
+run_uuid: 332a9dba268b4ea6a9d6665bc78181cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747592928362
+status: 3
+tags: []
+user_id: codespace

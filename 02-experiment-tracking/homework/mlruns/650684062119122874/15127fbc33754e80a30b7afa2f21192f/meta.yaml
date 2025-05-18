@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/650684062119122874/15127fbc33754e80a30b7afa2f21192f/artifacts
+end_time: 1747594617081
+entry_point_name: ''
+experiment_id: '650684062119122874'
+lifecycle_stage: active
+run_id: 15127fbc33754e80a30b7afa2f21192f
+run_name: stylish-sheep-836
+run_uuid: 15127fbc33754e80a30b7afa2f21192f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747594596598
+status: 3
+tags: []
+user_id: codespace

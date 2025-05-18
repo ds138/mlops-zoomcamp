@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/67343a8376194348a8edc092ee5da1ca/artifacts
+deleted_time: 1747592998511
+end_time: 1747592800869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 67343a8376194348a8edc092ee5da1ca
+run_name: monumental-shark-878
+run_uuid: 67343a8376194348a8edc092ee5da1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747592776021
+status: 3
+tags: []
+user_id: codespace

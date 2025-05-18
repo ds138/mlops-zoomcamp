@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/650684062119122874/0383295f930f40a2a3e953eb5cd6ddda/artifacts
+deleted_time: 1747593008580
+end_time: 1747592177660
+entry_point_name: ''
+experiment_id: '650684062119122874'
+lifecycle_stage: deleted
+run_id: 0383295f930f40a2a3e953eb5cd6ddda
+run_name: monumental-pig-607
+run_uuid: 0383295f930f40a2a3e953eb5cd6ddda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747592156032
+status: 4
+tags: []
+user_id: codespace

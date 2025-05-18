@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/407fd4f4abc64e3c891b05b0372154dc/artifacts
+deleted_time: 1747592998523
+end_time: 1747591807447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 407fd4f4abc64e3c891b05b0372154dc
+run_name: upset-skunk-667
+run_uuid: 407fd4f4abc64e3c891b05b0372154dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747591805123
+status: 4
+tags: []
+user_id: codespace

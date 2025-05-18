@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/30de09d1ac4a46acb7c7be70c2748923/artifacts
+deleted_time: 1747592998502
+end_time: 1747592836665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 30de09d1ac4a46acb7c7be70c2748923
+run_name: rebellious-owl-88
+run_uuid: 30de09d1ac4a46acb7c7be70c2748923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747592817586
+status: 3
+tags: []
+user_id: codespace
