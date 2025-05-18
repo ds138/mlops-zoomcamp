@@ -1,0 +1,14 @@
+# environment.yml
+
+name: mlops_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.3
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - jupyterlab
+  - black
+  - flake8
